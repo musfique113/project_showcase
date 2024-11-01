@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://github.com/user-attachments/assets/a3b9b414-fc7f-4966-9a4f-048751bde6d4" alt="Amajanta Logo" width="200"> </div>
+
 # Amajanta Shopping & Seller Apps
 
 
