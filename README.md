@@ -13,6 +13,14 @@ The "GPL Chemist App" is an innovative solution that empowers pharmacists to str
 </a>  
         </p>
 
+## Technology Stack
+
+- **Framework:** Flutter
+- **State Management:** GetX
+- **Local Database:** SQFlite for caching and offline cart management
+- **Real-Time Updates:** Firebase Cloud Messaging for push notifications
+- **Architecture:** Incorporate Repository Pattern into a Clean Architecture
+
 ## Screenshots
 <img src="https://github.com/musfique113/gpl_chemist_app/assets/53111065/3aa09878-252f-4301-9919-e9bdb3d38029" alt="Screenshot 11" height="400" width="sdfadsdfadsf">
 <img src="https://github.com/musfique113/gpl_chemist_app/assets/53111065/13b6b8c8-eada-4903-a9c5-f95f9044deae" alt="Screenshot 11" height="400" width="sdfadsdfadsf">
