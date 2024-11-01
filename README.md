@@ -14,7 +14,13 @@ Medicine Mart, your premier destination for hassle-free healthcare shopping! Our
 </a>  
         </p>
 
+## Technology Stack
 
+- **Framework:** Flutter
+- **State Management:** GetX
+- **Local Database:** SQFlite for caching and offline cart management
+- **Real-Time Updates:** Firebase Cloud Messaging for push notifications
+- **Architecture:** Incorporate Repository Pattern into a Clean Architecture
 
 ## Screenshots
 <img src="https://github.com/musfique113/medicine-mart/assets/53111065/56786dc7-8ca1-43ff-aaff-ba877ededd07" alt="Screenshot 3" height="400" width="sdfadsdfadsf">
